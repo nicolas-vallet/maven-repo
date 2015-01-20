@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jan 20 16:22:19 CET 2015
+gwt-visualization-1.1.2.jar>=
+gwt-visualization-1.1.2-javadoc.jar>=
+gwt-visualization-1.1.2.pom>=
