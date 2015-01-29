@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 29 13:33:31 CET 2015
+joda-time-for-gwt-2.8-SNAPSHOT-javadoc.jar>=
+joda-time-for-gwt-2.8-SNAPSHOT.pom>=
+joda-time-for-gwt-2.8-SNAPSHOT-no-tzdb.jar>=
+joda-time-for-gwt-2.8-SNAPSHOT-sources.jar>=
+joda-time-for-gwt-2.8-SNAPSHOT.jar>=
